@@ -1,6 +1,11 @@
 ## How to config
 
-
+1. Clone project
+2. Copy .env.example
+3. Rename file .env.example-copy to .env
+4. composer update
+5. Create Database
+6. Connect Database
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
